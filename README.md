@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @contmaster
+- 👋 Hi, I’m @contmaster Anıl Yiğit Yaldız
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning Unity...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Unity Engine
+- 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me anilyigit.yaldiz@gmail.com
-- https://yigityaldiz.itch.io/
+- 🎮 You can look my games on my itch.io website https://yigityaldiz.itch.io/
 
 <!---
 contmaster/contmaster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
